@@ -5,6 +5,8 @@
 
 Hi, I'm Gulshan Khatri
 
+SRE, Many things Kubernetes, Opensource enthusiast.
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khatrig&show_icons=true&theme=gotham" alt="khatrig" />
   
  ![](https://visitor-badge.glitch.me/badge?page_id=khatrig.khatrig)
